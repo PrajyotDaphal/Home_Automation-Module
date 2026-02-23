@@ -202,7 +202,7 @@ This project uses **HIGH VOLTAGE AC**.
 
 ## 📌 Author
 
-**Project by:** Gaming_Tube
+**Project by:** Prajyot Daphal
 **Designed using:** KiCad
 **Type:** Home Automation PCB Module
 
